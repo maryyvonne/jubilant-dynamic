@@ -10,3 +10,12 @@
 .featurette-divider {
    margin: 5rem 0;
 }
+
+.grid {
+   enable-grid-classes: false;
+   enable-cssgrid: true;
+}
+
+.dailyPlan .col-4 {
+   margin: 5rem 0;
+}
